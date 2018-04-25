@@ -9,7 +9,7 @@ This is a key generator for Db Schema, just for hack pourpose, if your really ne
 Usage:
 ```bash
 git clone https://github.com/riguzlee/db-schema-key-generator.git
-cd db-schema-key-generator
+cd db-schema-key-generator/schema_generator
 make
 ./keygen your-user-name
 ```
